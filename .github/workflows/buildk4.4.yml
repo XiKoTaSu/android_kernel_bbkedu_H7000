@@ -3,7 +3,7 @@ on:
   workflow_call:
   workflow_dispatch:
   push:
-    branchs: "LA.UM.7.2.c25-12400-sdm660.0"
+    branchs: "mkp"
 
 jobs:
   build:
